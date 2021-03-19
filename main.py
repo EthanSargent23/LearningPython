@@ -1,5 +1,3 @@
-print("1.infinity war")
-print("2.Big Hero Six")
-print("3.Black Panther")
-print("4.IronMan Series")
-print("5.THOR")
+favFood = "Ribs"
+day = "today"
+print("Your favorite food is " + favFood + " " + day)
