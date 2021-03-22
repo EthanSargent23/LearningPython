@@ -1,3 +1,12 @@
-favFood = "Ribs"
-day = "today"
-print("Your favorite food is " + favFood + " " + day)
+nOun1 = " space"
+nOun2 = "europe"
+nOun3 = "pigs"
+aDj1 = "terrible"
+aDj2 = "weird"
+aDj3 = "ferious"
+aDj4 = "slippery"
+aDj5 = "jittery"
+aDj6 = "glorious"
+aDj7 = "ambitious" 
+vEh = " lamborgini"
+print("Star Wars is a " + aDj1 + nOun1 + " of " + aDj2 + " Versus evil in a " + nOun2 + " far far away. There are " + aDj3 + " battle between " + aDj4 + vEh + " in " + aDj5 + " space and " + aDj6 + " duels with " + nOun3 + " called " + aDj7 + " sabers.")
