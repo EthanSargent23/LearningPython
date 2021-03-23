@@ -9,4 +9,5 @@ aDj5 = input("enter a adjective\n")
 aDj6 = input("enter a adjective\n")
 aDj7 = input("enter a adjective\n") 
 vEh = input("enter a Vehicle\n")
+
 print("Star Wars is a " + aDj1 + " " + nOun1 + " of " + aDj2 + " Versus evil in a " + nOun2 + " far far away. There are " + aDj3 + " battle between " + aDj4 + " " + vEh + " in " + aDj5 + " space and " + aDj6 + " duels with " + nOun3 + " called " + aDj7 + " sabers.")
