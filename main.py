@@ -6,5 +6,8 @@ if light == "green":
 elif light == "yellow":
     print("slow")
 
+elif light == "blue":
+    print("call 911")
+    
 else:
     print("stop")
