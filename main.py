@@ -1,5 +1,10 @@
-def addTwoNumbers(x, y):
-    return x + y 
-print(addTwoNumbers(5, 6)
+light = input("Stoplight color:\n")
 
-print("hello world!")
+if light == "green":
+    print(go)
+
+elif light == "yellow":
+    print("slow")
+
+else:
+    print("stop")
